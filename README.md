@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelesantana&label=Profile%20views&color=0e75b6&style=flat" alt="michelesantana" /> </p>
 
-- 🔭 Atualmente estou trabalhando em Plataforma de Saúde Digital [Conecta Médico](https://telemedicina.conectamedico.com.br/profissional/)
+
 
 - 🌱 Atualmente aprendendo **Engenharia e Análise de Dados e Python**
 
