@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em Plataforma de Saúde Digital [Conecta Médico](https://telemedicina.conectamedico.com.br/profissional/)
 
-- 🌱 Atualmente aprendendo **Lógica da Programação e Python**
+- 🌱 Atualmente aprendendo **Engenharia e Análise de Dados e Python**
 
 - 💬 Pergunte sobre **Python, SQL, SCRUM,JIRA, Excel**
 
