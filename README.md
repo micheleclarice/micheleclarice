@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente aprendendo **Engenharia e Análise de Dados e Python**
 
-- 💬 Pergunte sobre **Python, SQL, Data Warehouse, Data Marts, ETL, SAAS, SCRUM,JIRA, Excel**
+- 💬 Pergunte sobre **Python, SQL, Data Warehouse, Data Marts, ETL, SCRUM**
 
 - 📫 Você me encontra através do e-mail **mulheresnati2022@gmail.com**
 
