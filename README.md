@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Atualmente aprendendo **Engenharia e Análise de Dados e Python**
+- 🌱 Atualmente atuando com **Engenharia e Análise de Dados e Gestão de Projetos**
 
 - 💬 Pergunte sobre **Python, SQL, Data Warehouse, Data Marts, ETL, SCRUM**
 
