@@ -9,7 +9,7 @@
 
 - 💬 Pergunte sobre **Python, SQL, Data Warehouse, Data Marts, ETL, SCRUM**
 
-- 📫 Você me encontra através do e-mail **mulheresnati2022@gmail.com**
+- 📫 Você me encontra através do e-mail **micheleclarice@hotmail.com**
 
 - 📄 Aqui você encontra minhas habilidades e experiências profissionais [https://www.linkedin.com/in/micheleclarice/](https://www.linkedin.com/in/micheleclarice/)
 
