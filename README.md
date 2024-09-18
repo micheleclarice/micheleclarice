@@ -5,9 +5,9 @@
 
 
 
-- 🌱 Atualmente atuando com **Engenharia e Análise de Dados e Gestão de Projetos**
+- 🌱 Atuando com ** Gestão de Projetos Ágeis, Engenharia e Análise de Dados **
 
-- 💬 Pergunte sobre **Python, SQL, Data Warehouse, Data Marts, ETL, SCRUM**
+- 💬 Pergunte sobre **Python, SQL, Data Warehouse, Data Marts, ETL, SCRUM, Azure**
 
 - 📫 Você me encontra através do e-mail **micheleclarice@hotmail.com**
 
