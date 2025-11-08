@@ -1,6 +1,6 @@
 
 
-# Olá, eu sou a Michele Clarice Machado de Santana 👋
+# Olá, eu sou a Michele Clarice M de Santana 👋
 
 ### 🚀 Engenheira de Dados e Scrum Master
 
