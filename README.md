@@ -4,7 +4,7 @@
 
 ### 🚀 Engenheira de Dados e Scrum Master
 
-> Veja também meu **[Portfólio Interativo (GitFolio)](https://gitfollio.vercel.app/micheleclarice)**!
+> Veja também meu **[Portfólio Interativo (https://www.notion.so/Engenheira-de-Dados-2a588b69da51805780d2cd4192af38f0)**!
 
 ---
 
