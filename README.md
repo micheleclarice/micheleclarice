@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/78629902?v=4" alt="Michele Santana" width="200" align="right">
+
 
 # Olá, eu sou a Michele Clarice Machado de Santana 👋
 
