@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Michele Clarice M de Santana 👋
 
-### 🚀 Engenheira e Cientista de Dados com IA e Scrum Master, Cursando Pós Graduação em Inteligencia Artificial e Ciência de Dados
+### 🚀 Engenheira, apaixonada por IA e Scrum Master, Cursando Pós Graduação em Inteligencia Artificial e Ciência de Dados
 
 > Veja também meu **Portfólio Interativo (https://www.notion.so/Engenheira-de-Dados-2a588b69da51805780d2cd4192af38f0)**!
 
