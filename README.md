@@ -9,11 +9,48 @@
 
 ## 👩‍💻 Sobre Mim
 
-Sou formada em Enfermagem, com atuação em Auditoria por 12 anos. Apaixonada por tecnologia, mudei de profissão aos 40 anos e hoje atuo com minha paixão.
+15 anos entendendo saúde por dentro. Bacharel em Enfermagem, com especialização em Auditoria em Saúde.
+ 
+Comecei auditando contas hospitalares, gerenciando risco e tomando decisão crítica com dado na mão — 12 anos na linha de frente da saúde, 3 anos em Assistência Direta ao Paciente.
 
-Com sólida experiência em gestão de projetos de Tecnologia, amo transformar dados brutos em insights acionáveis. Busco desafios que permitam aplicar minha expertise profissional.
+Em 2019 recebi o desafio de ser Enfermeira  e Product Owner, em uma equipe de 10 desenvolvedores, para transformar os registros em saúde, antes impressos em registros digitais dentro de Aplicação Mobile e Web, através de um projeto de Prontuário Eletrônico para home Care, na Qualivida.
 
-Almejo posições que unam minha paixão por dados e minha experiência em gestão para impulsionar a inovação e o sucesso de projetos de TI.
+Atuei como Engenheira de Dados em IoT na Blueshift em 2022, onde reiniciei a carreira na Tecnologia, essa atuação abriu portas para liderar as equipes na Blueshift Brasil, como Scrum Master, aprendendo e crescendo a cada dia na profissão.
+
+Isso muda como eu trabalho: quando priorizo um backlog ou facilito um squad, não estou interpretando regra de negócio. Já vivi ela.
+ 
+Hoje conecto estratégia de produto, dados e execução técnica em operações clínicas, com foco em entrega de alto impacto.
+
+Resume:
+
+Are willing to work in Remote mode (Brazil): Yes
+Experience in IT (Years): 5 yers
+Relevant Experience in Agile Frameworks Scrum / Kanban.) : Azure DevOps/ Jira/ Trello/ Clickup/ Notion, Git Hub 
+Do you have Certification as a Scrum Master (CSM/PSM).? Yes
+Technical Skills: Azure | Databricks | Python | SQL | JIRA | Azure DevOps | ClickUp | Ágile | Complex project management | Process audit | data engineering and AI
+English speaking level (advance, intermediate, basic): Profesional
+Spanish speaking level (advance, intermediate, basic): Native
+Do you have certification: Yes (Scrum Master and PM)
+
+Badges:
+
+Scrum Fundamentals Certified (SFC): https://www.scrumstudy.com/certification/verify?type=SFC&number=1053348 
+Generative AI Overview for Project Managers Project Management: Institute:https://www.credly.com/badges/c3a7657a-f22d-47bc-a653-90c8d0cab1cb/linked_in_profile
+Generative AI Overview for Project Managers - Project Management Institute: https://www.credly.com/badges/56de6076-6f9b-4fc4-b2aa-ca81940db453/linked_in_profile
+Six Sigma Yellow Belt (SSYB™): https://www.6sigmastudy.com/certification/verify?type=SSYB&number=897960
+
+
+Previous work experience:
+Qualivida - 1 year experience (Presencial)
+Blueshift - 2 Yers experience (Remote)
+Automind - 2 yers experience (Remote)
+
+https://www.linkedin.com/in/micheleclarice/
+Git Hub: https://github.com/micheleclarice
+Wattsapp: +55 75 992195441
+📧 micheleclarice@hotmail.com
+
+Espanhol fluente, Aberta a oportunidades remotas no Brasil e exterior.
 
 ---
 
