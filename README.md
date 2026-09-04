@@ -2,8 +2,7 @@
 
 # Olá, eu sou a Michele Clarice M de Santana 👋
 
-### 🚀 Scrum Master e Enfermeira. Apaixonada por IA e Agilidade, Experiência do Usuário baseada em Dados.
-Especialista em Inteligencia Artificial e Ciência de Dados com forte skill, para Front end e UX.
+### 🚀 Líder de Projetos, Produto e Tecnologia | IA, Agile e Transformação Digital | Saúde & SaaS | Enfermeira | Espanhol Nativo.
 
 
 ---
